@@ -3,5 +3,19 @@ pnpm-lock.yaml
 package-lock.json
 yarn.lock
 
+build/
+dist/
+out/
+
+temp/
+tmp/
+*.tmp
+
+logs/
+*.logs
+
 .env
 .env*
+
+.vscode/
+.idea/
